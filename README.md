@@ -1,6 +1,9 @@
 # OAuth-2.0
+```http://localhost:5173/oauth2/authorize?response_type=code&redirect_uri=http://localhost:5173/auth/callback&scope=identify,email,applications&client_id=523584844853149697```
 ![page](./oauth2-page.png)
+```http://localhost:5173/applications/list```
 ![applications](./oauth2-applications.png)
+```http://localhost:5173/applications/524138396256305152``
 ![application-info](./oauth2-application-info.png)
 ![application-save](./oauth2-application-save.png)
 
