@@ -2,14 +2,14 @@
 
 ## API Routes
 
-```/oauth2/authorize```
-	Body (* required):
-```user_id* : User to authorize```
-```client_id* : Application id```
-```redirect_uri* : Redirect Url```
-```scope* : Authorization scopes```
-	Response:
-```grant_code : Random token for getting access token```
+- ```/oauth2/authorize```
+-	Body (* required):
+- ```user_id* : User to authorize```
+- ```client_id* : Application id```
+- ```redirect_uri* : Redirect Url```
+- ```scope* : Authorization scopes```
+- 	Response:
+- ```grant_code : Random token for getting access token```
  
 ```/oauth2/token```
 	Body (* required):
