@@ -1,0 +1,12 @@
+{
+  "main_server": {
+    "host": "45.151.2.105",
+    "port": "4000"
+  },
+  "scopes": [
+    "identify",
+    "email",
+    "applications"
+  ],
+  "default_avatar": "https://cdn.discordapp.com/embed/avatars/0.png"
+}
