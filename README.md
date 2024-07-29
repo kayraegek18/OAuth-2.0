@@ -3,7 +3,7 @@
 ![page](./oauth2-page.png)
 ```http://localhost:5173/applications/list```
 ![applications](./oauth2-applications.png)
-```http://localhost:5173/applications/524138396256305152``
+```http://localhost:5173/applications/524138396256305152```
 ![application-info](./oauth2-application-info.png)
 ![application-save](./oauth2-application-save.png)
 
