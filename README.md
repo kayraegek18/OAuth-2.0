@@ -1,4 +1,8 @@
 # OAuth-2.0
+[page](./oauth2-page.png)
+[applications](./oauth2-applications.png)
+[application-info](./oauth2-application-info.png)
+[application-save](./oauth2-application-save.png)
 
 ## API Routes
 
