@@ -1,0 +1,19 @@
+@import './base.css';
+
+:root {
+    --color-background: #101010;
+    --color-surface: #2E3034;
+    --color-surface-2: #202020;
+    --color-text: #F2ECFF;
+
+    --color-sidebar: #202020;
+
+    --color-alert-info: #335167;
+
+    --color-primary: #00C896;
+    --color-secondary: #C8FCEA;
+
+    --color-success: #00C896;
+    --color-danger: #CC7766;
+    --color-warning: #F6B162;
+}
